@@ -1,0 +1,41 @@
+body {
+	background-image: url("http://www.howtogetridofit.com/wp-content/themes/mimbo/images/how-to-get-rid-of-ghosts.jpg");
+	color: red;
+}
+
+h1 {
+text-align: center;
+}
+
+a:link {
+	color: red;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #DB7070;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #DB7070;
+	text-decoration: underline;
+}
+
+a:active{
+	color: #A570DB;
+	text-decoration: none;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
